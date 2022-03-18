@@ -1,0 +1,41 @@
+.form-body {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.form-label, #send-button {
+  margin-top: 40px;
+}
+
+.text-form {
+  box-sizing: border-box;
+  width: 400px;
+  line-height: 2.5rem;
+  padding: 0 .5rem;
+}
+
+.text-area {
+  box-sizing: border-box;
+  width: 400px;
+  height: 200px;
+  padding: .5rem;
+}
+
+#send-button {
+  width: 400px;
+  line-height: 2.5rem;
+  font-weight: bold;
+  color: #9daf80;
+  background-color: #fff;
+  border: 2px solid #9daf80;
+}
+
+#send-button:hover {
+  color: #fff;
+  background-color: #9daf80;
+  border: 2px solid #9daf80;
+}
+
+.change-color {
+  color: orange;
+}

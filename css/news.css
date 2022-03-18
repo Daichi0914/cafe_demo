@@ -1,0 +1,21 @@
+#news {
+  background-color: #eee;
+}
+
+.news-wrap {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0 10vw;
+}
+
+.news-wrap li {
+  margin-top: 10px;
+}
+
+.news-wrap li a:hover {
+  text-decoration: underline;
+}
+
+.news-wrap li span {
+  margin-right: 25px;
+}

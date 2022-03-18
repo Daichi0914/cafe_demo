@@ -1,0 +1,37 @@
+#interview {
+  background-image: url(../img/interview.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  background-color: #f8e1b6;
+}
+
+.interview-wrap {
+  background-color: rgba(255, 255, 255, 0.9);
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px 0;
+}
+
+.interview-wrap p {
+  margin-top: 60px;
+}
+
+#interview .more {
+  margin-top: 25px;
+}
+
+.more {
+  color: #9daf80;
+  border: 2px solid #9daf80;
+  background-color: #fff;
+  font-weight: bold;
+  padding: 8px 20px;
+  display: inline-block;
+}
+
+.more:hover {
+  color: #fff;
+  background-color: #9daf80;
+  border: 2px solid #9daf80;
+}
